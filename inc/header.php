@@ -10,9 +10,6 @@
 <link rel="stylesheet" type="text/css" href="http://www.sjsu.edu/assets/css/fontfix.css" media="screen" />
 <link rel="stylesheet" type="text/css" href="http://www.sjsu.edu/assets/css/print.css" media="print" />
 
-<!-- TOOLTIP -->
-<link rel="stylesheet" type="text/css" href="http://www.sjsu.edu/assets/css/tipTip.css" media="screen" />
-
 <!-- IE COMPATIBILITY -->
 <!--[if lt IE 9]>
 <link rel="stylesheet" href="/sjsuhome/assets/css/styles-ie.css" />
