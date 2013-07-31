@@ -1,7 +1,5 @@
 <!-- JQUERY -->
 <script type="text/javascript" src="/sjsuhome/assets/js/jquery-1.9.1.min.js"></script>
-<!-- Side Navigation -->
-<script type="text/javascript" src="/sjsuhome/assets/js/sidenav.js"></script>
 <!-- NIVO SLIDER -->
 <script type="text/javascript" src="/sjsuhome/assets/js/jquery.nivo.slider.pack-min.js"></script>
 <script type="text/javascript">// <![CDATA[

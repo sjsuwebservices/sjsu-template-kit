@@ -25,13 +25,16 @@
             <nav class="secnav" role="navigation">
             <h2>Navigate</h2>
             <a class="back_up_level" href="../"><span class="navarrowback"></span>BACK to <!-- parent page <title> --></a>
-            <ul id="childrenNav">
-            <li><a href="/FOO">Child Page</li>                      
-            <li><a href="/FOO">Child Page</li>                      
-            <li><a href="/FOO">Child Page</li>                      
-            </ul>
-            <ul id="siblingNav">                        
+            <ul class="sn1" role="navigation">                        
             <li><a href="../FOO">Sibling Page</a></li>
+            <li class="selected">
+                <a href="../FOO">Current Page</a>
+                <ul>
+                    <li><a href="../FOO">Child Page</a></li>
+                    <li><a href="../FOO">Child Page</a></li>
+                </ul>
+
+            </li>
             <li><a href="../FOO">Sibling Page</a></li>
             <li><a href="../FOO">Sibling Page</a></li>
             </ul>
